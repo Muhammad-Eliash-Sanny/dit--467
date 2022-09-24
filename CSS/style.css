@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+nav{
+    background-color: #303030;
+}
+.hero-part{
+    background-image: url(../image/Musicology-img.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#about{
+    background-image: url(../image/background.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: repeat;
+    background-color: #e8631c;
+}
+#pricing{
+    background-image: url(../image/backgroun2.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#middel{
+    background-image: url(../image/middel-img.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
